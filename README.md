@@ -1,5 +1,7 @@
 # install-ros-noetic
 Introduction:
+
+
 ROS Noetic is the Long-Term Support (LTS) release of the Robot Operating
 System (ROS). It is designed to work with Ubuntu 20.04 (Focal Fossa). In this report, we will go over all the steps required to install ROS Noetic on an Ubuntu system.
 
